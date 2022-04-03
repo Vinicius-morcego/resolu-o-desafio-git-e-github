@@ -1,1 +1,10 @@
+Primeiro passo, criei o repositório no meu perfil do GitHub, (Onde está resolu na parte da nomenclatura do repositorio 
+entendam resolução rsrs).
+
+Segundo passo, editei o arquivo README.md 
+
+Terceiro passo, fiz o clone do repositorio para minha máquina local
+
+Quarto passo, criei este arquivo para exemplificar como resolvi este desafio, obrigado pela oportunidade DIO.
+
 
